@@ -1,0 +1,4 @@
+2023-06-17 23:06:656 INFO  HomePage :34 - click on username field[[ChromeDriver: chrome on WINDOWS (c9b1b1313c7c1d9bdf2f4729d3fd2306)] -> xpath: //input[@id='l_user_name']]
+2023-06-17 23:06:765 INFO  HomePage :40 - click on password field[[ChromeDriver: chrome on WINDOWS (c9b1b1313c7c1d9bdf2f4729d3fd2306)] -> id: l_password]
+2023-06-17 23:06:855 INFO  HomePage :29 - click on[[ChromeDriver: chrome on WINDOWS (c9b1b1313c7c1d9bdf2f4729d3fd2306)] -> xpath: //div[contains(text(),'Login')]]
+2023-06-17 23:06:777 INFO  HomePage :46 - Error message [[ChromeDriver: chrome on WINDOWS (c9b1b1313c7c1d9bdf2f4729d3fd2306)] -> xpath: //div[@class='error center center-text']]
